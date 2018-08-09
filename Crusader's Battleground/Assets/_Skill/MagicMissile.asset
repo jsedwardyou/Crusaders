@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57e0599771250164a97b0d9d87389c19, type: 3}
+  m_Name: MagicMissile
+  m_EditorClassIdentifier: 
+  spell: {fileID: 1080190148434104, guid: b320b11e4edcaf043ba983c52240c023, type: 2}
+  skillEffect: {fileID: 1080190148434104, guid: b320b11e4edcaf043ba983c52240c023,
+    type: 2}
+  skillBlock: {fileID: 1384483260198410, guid: cb3fee9b935946f4a9ee06281625e926, type: 2}
+  TripleSpell: {fileID: 11400000, guid: b8c3c0249ac9a6144b27dbe046f06c7f, type: 2}
+  skill_Image: {fileID: 21300000, guid: 9600c51a994604e40a47d2c7491f058b, type: 3}
+  skillName: MagicMissile
+  description: 
+  damage: 10
+  range: 30
+  duration: 1
+  interval: 1
+  speed: 2
+  force: 0
+  stun: 0
+  stunDuration: 0

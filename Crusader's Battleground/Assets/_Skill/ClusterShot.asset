@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57e0599771250164a97b0d9d87389c19, type: 3}
+  m_Name: ClusterShot
+  m_EditorClassIdentifier: 
+  spell: {fileID: 1212246237786616, guid: 2d5e320be17dc25419a89e0b30fe5b47, type: 2}
+  skillEffect: {fileID: 1212246237786616, guid: 59f95324514d34941981864f8fe04eb9,
+    type: 2}
+  skillBlock: {fileID: 1204304612777546, guid: d6068b5c5d1e8094f8c980efb77fffdb, type: 2}
+  TripleSpell: {fileID: 0}
+  skill_Image: {fileID: 21300000, guid: c2fc7b356ebe242deaefac9ceb95a7e1, type: 3}
+  skillName: 
+  description: 
+  damage: 20
+  range: 0
+  duration: 4
+  interval: 0
+  speed: 0
+  force: 300
+  stun: 0
+  stunDuration: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57e0599771250164a97b0d9d87389c19, type: 3}
+  m_Name: TripleShot
+  m_EditorClassIdentifier: 
+  spell: {fileID: 1447388930148962, guid: 492fc8c24e776bd479bbe8640284ed29, type: 2}
+  skillEffect: {fileID: 1080190148434104, guid: b320b11e4edcaf043ba983c52240c023,
+    type: 2}
+  skillBlock: {fileID: 1006004889131680, guid: cf4589153d1993c4590fe80e87e92ada, type: 2}
+  TripleSpell: {fileID: 0}
+  skill_Image: {fileID: 21300000, guid: 9896d9b164f0b33499854543ec80917c, type: 3}
+  skillName: 
+  description: 
+  damage: 10
+  range: 30
+  duration: 3.5
+  interval: 1
+  speed: 2
+  force: 0
+  stun: 0
+  stunDuration: 0

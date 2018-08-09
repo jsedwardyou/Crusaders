@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57e0599771250164a97b0d9d87389c19, type: 3}
+  m_Name: Canon
+  m_EditorClassIdentifier: 
+  spell: {fileID: 1212246237786616, guid: 59f95324514d34941981864f8fe04eb9, type: 2}
+  skillEffect: {fileID: 1212246237786616, guid: 59f95324514d34941981864f8fe04eb9,
+    type: 2}
+  skillBlock: {fileID: 1204304612777546, guid: 155b4c34eb97669488387de245ecfc4c, type: 2}
+  TripleSpell: {fileID: 11400000, guid: c3fd761b2bf4013428ce3cd90a627fbe, type: 2}
+  skill_Image: {fileID: 21300000, guid: e4d360eb8fda3154fafe97380fa71f0b, type: 3}
+  skillName: Canon
+  description: Shoots a canon rocket
+  damage: 20
+  range: 20
+  duration: 3
+  interval: 2
+  speed: 0.2
+  force: 300
+  stun: 1
+  stunDuration: 0.2
